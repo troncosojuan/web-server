@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "nombre": "Producto 1",
+      "precio": 10,
+      "stock": 100,
+      "codigo": "ABC123",
+      "publicacion": "Categoría A",
+      "fechaDeCreacion": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "nombre": "Producto 2",
+      "precio": 20,
+      "stock": 50,
+      "codigo": "DEF456",
+      "publicacion": "Categoría B",
+      "fechaDeCreacion": "2023-02-15"
+    },
+    {
+      "id": 3,
+      "nombre": "Producto 3",
+      "precio": 15,
+      "stock": 75,
+      "codigo": "GHI789",
+      "publicacion": "Categoría A",
+      "fechaDeCreacion": "2023-03-20"
+    },
+    {
+      "id": 4,
+      "nombre": "Producto 4",
+      "precio": 30,
+      "stock": 30,
+      "codigo": "JKL101",
+      "publicacion": "Categoría C",
+      "fechaDeCreacion": "2023-04-10"
+    },
+    {
+      "id": 5,
+      "nombre": "Producto 5",
+      "precio": 25,
+      "stock": 60,
+      "codigo": "MNO202",
+      "publicacion": "Categoría B",
+      "fechaDeCreacion": "2023-05-05"
+    },
+    {
+      "id": 6,
+      "nombre": "Producto 6",
+      "precio": 12,
+      "stock": 90,
+      "codigo": "PQR303",
+      "publicacion": "Categoría A",
+      "fechaDeCreacion": "2023-06-30"
+    }
+  ]
